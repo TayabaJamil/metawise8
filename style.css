@@ -1,0 +1,26 @@
+body{
+
+}
+
+.main{
+    width: 400px;
+    height: 250px;
+    background-color: #005193;
+    
+}
+.yellow1{
+    background-color: #ffcc01;
+    height: 250px;
+    width: 50px;
+    position: absolute;
+    left: 125px;
+
+}
+.yellow2{
+    height: 50px;
+    width: 400px;
+    background-color: #ffcc01;
+    position: absolute;
+    top: 110px;
+
+}
